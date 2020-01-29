@@ -29,28 +29,7 @@
 
 # STEP 12 - (DONE) Merge the FISH ranking lookup table with the HER data and select the most important records. Review number of HER records that need to be refined, if any.
 
-# STEP 13 - For one-to-many (i.e. SHINE to HER) relationships retain the earliest PeriodStrt date, using a similar refinement methodology to the FISH borad types above (i.e. using lookup tables and ranking)
-
-# 
-
-
-
-
-
-
-# STEP 8 - Merge the SHINE and single HER "super layer" based on SHINE ID - retain all HER records
-
-
-
-# Step 10 - If one-to-many use earliest PeriodSrt field
-
-# Joining and processing as per below rules
-
-
-# DATE Yes, we simply take the EARLIEST PeriodStrt field
-
-# TYPE I can run through the Excel table along the lines we agreed yesterday to inform your first sift of the HER data, this will keep Ken’s powder dry for any work that may arise once you have spotted the ‘one to many’: I agree that we go for most frequent. 
-
+# STEP 13 - For one-to-many (i.e. SHINE to HER) relationships retain the earliest PeriodStrt date, using a similar refinement methodology to the FISH broad types above (i.e. using lookup tables and ranking)
 
 
 
